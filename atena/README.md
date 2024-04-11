@@ -10,6 +10,10 @@
   and first maintainer, who sadly passed away on January 10th, 2024. The
   image is based on a charcoal drawing from her, as she was 10 years old,
   courtesy of her family, giving a scanline style using an early version
-  of the [scanline](https://github.com/cj-holmes/scanline) package.
+  of the [scanline](https://github.com/cj-holmes/scanline) package. The
+  image was completed by adding the sketch of two non-LTR retrotranpositions
+  during priming and reverse transcription, which are associated with the
+  purpose of the [atena package](https://bioconductor.org/packages/atena),
+  which is the analysis and quantification of transposable element expression.
 
 <img src=atena.png height="200">
